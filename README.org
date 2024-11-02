@@ -1,5 +1,4 @@
 #+title: Eyemacs
 #+author: Dayalmoirangthem
 
-* Eyemacs
 My personal emacs setup.
